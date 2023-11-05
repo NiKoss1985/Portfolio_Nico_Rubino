@@ -11,7 +11,7 @@
 
 
 # [Project 2: Dataframe manipulation in Pandas](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I applied manipulation techniques to a data frame. This could be useful for a Growth Marketing Manager working for EdTech Startup. I have worked on the following operations:
+For this example project I applied manipulation techniques to a data frame. This could be useful for a Growth Marketing Manager working for any startup or consultancy firm. I have worked on the following operations:
 - Import & export files in pandas (.csv, .xls, .pdf) 
 - Delete, create, and rename columns
 - GroupBy & Pivot Functions
