@@ -1,4 +1,4 @@
-# Portfolio_Nico_Rubino
+# Portfolio Data Science 
 
 # [Project 1: K-means Segmentation Clustering for eCommerce](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
