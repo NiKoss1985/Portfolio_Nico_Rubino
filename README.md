@@ -12,11 +12,11 @@
 
 # [Project 2: Dataframe manipulation in Pandas](https://github.com/PlayingNumbers/ball_image_classifier) 
 For this example project I applied manipulation techniques to a data frame. This could be useful for a Growth Marketing Manager working for EdTech Startup. I have worked on the following operations:
-- Imported & downloaded .files in pandas
-- Deleted & created, renamed columns
+- Import & export files in pandas (.csv, .xls, .pdf) 
+- Delete, create, and rename columns
 - GroupBy & Pivot Functions
-- Create new columns as CTR, ROI, ROAS, CR% 
-- Merged data frames
+- Use mathematical functions in new columns such as CTR, ROI, ROAS, CR% 
+- Merge data frames
 
 I was able to perform the most common and useful operations in marketing analytics before predicting performance in marketing for brands in pandas (Python). 
 
