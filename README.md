@@ -8,11 +8,9 @@ Here are the main steps of my work:
 - Data exploration to find the first correlation  
 - Perform the 'Test, Learn & Split' test to train the model 
 - Analyse the data to find outliers
-- Final comments 
+- Final comments
 
-I was able to perform the most common and useful operations in marketing analytics before predicting performance in marketing for brands in pandas (Python). 
-
-![](/images/matrix_results.png)
+![](/images/Screenshot_2023-12-18_114834.png)
 
 
 # [Project 2: K-means Segmentation for eCommerce](https://github.com/PlayingNumbers/ds_salary_proj) 
@@ -22,6 +20,12 @@ I was able to perform the most common and useful operations in marketing analyti
 * Found the natural clustering and applied visualisation techniques.   
 * Built k-means clusters and assigned descriptive labels to the clusters 
 
+I was able to perform the most common and useful operations in marketing analytics before predicting performance in marketing for brands in pandas (Python). 
+
+![](/images/matrix_results.png)
+
 ![](/images/kmeans-ecommerce.png)
+
+
 
 
