@@ -12,7 +12,7 @@ Here are the main steps of my work:
 
 ![](/images/lr.png)
 
-![](/images/residual.png)
+![](/images/r.png)
 
 
 # [Project 2: K-means Segmentation for eCommerce](https://github.com/NiKoss1985/Portfolio_Nico_Rubino)
