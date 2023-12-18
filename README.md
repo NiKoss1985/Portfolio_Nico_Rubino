@@ -1,6 +1,6 @@
 # Portfolio Data Science 
 
-# [Project 1: Linear Regression, Students Performance](https://github.com/PlayingNumbers/ball_image_classifier) 
+# [Project 1: Linear Regression, Students Performance](https://github.com/NiKoss1985/Portfolio_Nico_Rubino)
 In this project, I applied regression and multi-regression analysis to an education database. The main goal was to predict what factors influence the student's performance with higher probability. I used the sklearn.model package and seaborn for visualisation. 
 
 Here are the main steps of my work:
@@ -12,10 +12,10 @@ Here are the main steps of my work:
 
 ![](/images/lr.png)
 
-![](/images/residuals.png)
+![](/images/residual.png)
 
 
-# [Project 2: K-means Segmentation for eCommerce](https://github.com/PlayingNumbers/ds_salary_proj) 
+# [Project 2: K-means Segmentation for eCommerce](https://github.com/NiKoss1985/Portfolio_Nico_Rubino)
 * I imported machine learning library, pandas, numpy, matplotlib for visualisation. 
 * I manipulated the dataframe and improved the readability to get a better understanding of it 
 * I standardised the data 
