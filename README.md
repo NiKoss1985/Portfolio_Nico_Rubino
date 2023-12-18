@@ -10,13 +10,15 @@
 ![](/images/kmeans-ecommerce.png)
 
 
-# [Project 2: Dataframe manipulation in Pandas](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I applied manipulation techniques to a data frame. This could be useful for a Growth Marketing Manager working for any startup or consultancy firm. I have worked on the following operations:
-- Import & export files in pandas (.csv, .xls, .pdf) 
-- Delete, create, and rename columns
-- GroupBy & Pivot Functions
-- Use mathematical functions in new columns such as CTR, ROI, ROAS, CR% 
-- Merge data frames
+# [Project 2: Linear Regression, Students Performance](https://github.com/PlayingNumbers/ball_image_classifier) 
+In this project, I applied regression and multi-regression analysis to an education database. The main goal was to predict what factors influence the student's performance with higher probability. I used the sklearn.model package and seaborn for visualisation. 
+
+Here are the main steps of my work:
+- Import in pandas the libraries and the file (.csv)
+- Data exploration to find the first correlation  
+- Perform the 'Test, Learn & Split' test to train the model 
+- Analyse the data to find outliers
+- Final comments 
 
 I was able to perform the most common and useful operations in marketing analytics before predicting performance in marketing for brands in pandas (Python). 
 
