@@ -10,7 +10,7 @@ Here are the main steps of my work:
 - Analyse the data to find outliers
 - Final comments
 
-![](/images/Screenshot 2023-12-18 114834.png)
+![](/images/lr.png)
 
 
 # [Project 2: K-means Segmentation for eCommerce](https://github.com/PlayingNumbers/ds_salary_proj) 
