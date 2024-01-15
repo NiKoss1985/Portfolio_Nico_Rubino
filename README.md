@@ -15,18 +15,20 @@ Here are the main steps of my work:
 ![](/images/r.png)
 
 
-# [Project 2: K-means Segmentation for eCommerce](https://github.com/NiKoss1985/Portfolio_Nico_Rubino)
-* I imported machine learning library, pandas, numpy, matplotlib for visualisation. 
-* I manipulated the dataframe and improved the readability to get a better understanding of it 
-* I standardised the data 
-* Found the natural clustering and applied visualisation techniques.   
-* Built k-means clusters and assigned descriptive labels to the clusters 
+# [Project 2: K-means Clustering to Find Highest Spending Audience](https://github.com/NiKoss1985/Portfolio_Nico_Rubino)
+KMeans clustering is a powerful technique in marketing analytics to find new audiences based on similar users. It identifies customer segments through specific features. In this case, I've chosen 2 criteria: customer 'Income' and 'Avg. Spending on Credit Card' 
+In the chart below we can see that we found 3 new audiences. Cluster 0 has a higher income and higher CCAvg. I would suggest the marketing team to address different marketing campaigns to this audience. 
 
-I was able to perform the most common and useful operations in marketing analytics before predicting performance in marketing for brands in pandas (Python). 
+* I imported a new CSV file into pandas
+* I imported KMeans library, Pandas, Numpy, Matplotlib for visualisation. 
+* I standardised two data columns by using the StandardScaler Method. 
+* I then applied the KMeans algorithm to find the natural clustering (N=3, random state 42) and I applied visualisation techniques.   
 
-![](/images/matrix_results.png)
+Project Reference: Baig, Govindan, Shrimali, 2021, Data Science for Marketing Analytics: A practical guide to forming a killer marketing strategy through data analysis with Python, Packt. 
 
-![](/images/kmeans-ecommerce.png)
+
+![](/images/kmeans.png)
+
 
 
 
