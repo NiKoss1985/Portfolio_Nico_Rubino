@@ -15,12 +15,7 @@ Here are the main steps of my work:
 
 # [Project 2: K-means Segmentation](https://github.com/PlayingNumbers/ds_salary_proj) 
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.preprocessing import StandardScaler 
-from sklearn.cluster import KMeans
+import pandas as pd, import numpy as np, import matplotlib.pyplot as plt, import seaborn as sns, from sklearn.preprocessing import StandardScaler, from sklearn.cluster import KMeans
 %matplotlib inline 
 
 #I import the csv file in pandas in a new df named bankdf
